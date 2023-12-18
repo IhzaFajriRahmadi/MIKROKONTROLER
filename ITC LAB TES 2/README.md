@@ -15,5 +15,5 @@
 ## Hasil Output Pada Serial Monitor :
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-2/HasilOutput.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/IhzaFajriRahmadi/MIKROKONTROLER/commit/3ce38f597a433265832e6080ed189c3ab91c60bb" alt="" class="img-responsive" width="400">
 </p>
