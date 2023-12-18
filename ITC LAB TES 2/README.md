@@ -15,5 +15,5 @@
 ## Hasil Output Pada Serial Monitor :
 
 <p>
-  <img src="https://github.com/IhzaFajriRahmadi/MIKROKONTROLER/commit/3ce38f597a433265832e6080ed189c3ab91c60bb" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/IhzaFajriRahmadi/MIKROKONTROLER/blob/main/ITC%20LAB%20TES%202/Ihza_Test2.png" alt="" class="img-responsive" width="400">
 </p>
